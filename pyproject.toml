@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "notebook>=7.5.5",
+    "torch>=2.11.0",
 ]
